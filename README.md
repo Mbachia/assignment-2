@@ -144,5 +144,3 @@ Version control is a system that tracks code changes, allowing developers to col
 
 ---
 
-This guide provides a simple overview of Git and GitHub essentials. Happy coding! 🚀
-
